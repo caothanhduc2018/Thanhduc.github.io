@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(28, 14, 149);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header #Menu_Min ul{
+text-align: left;
+font-family: 'Times New Roman', Times, serif;
+list-style-type: none ;
+background:rgb(245, 245, 58);
+height: 50 px;
+}
+
+section #hide{
+ 
+    
+    background-color: rgb(148, 30, 103);
+        font-size: 20px;
+        text-align: left;
+    
+
+}
+footer #table{
+    font-size: small;
+    background-color: white;
+    text-emphasis-color:initial ;
+    border-radius: 0vmax;
+}
