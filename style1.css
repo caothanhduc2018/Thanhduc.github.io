@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background: #00ffff9d;
+    background: #00ffff9d!important;
     margin: 30px 50px;
     line-height: 1.4;
 }
