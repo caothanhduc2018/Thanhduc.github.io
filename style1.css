@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background: #00ffff9d;
+    background: #00ffff9d!important;
     margin: 30px 50px;
     line-height: 1.4;
 }
@@ -41,7 +41,7 @@ img {
 .main-NY ul {
     display: grid;
     grid-gap: 20px;
-    padding: 0;
+    padding-top: 20px;
     list-style: none;
     grid-template-columns: repeat(4, 1fr) ;
 }
