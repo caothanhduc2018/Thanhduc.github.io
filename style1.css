@@ -74,7 +74,7 @@ img {
 .TT {
     grid-area: TT;
     min-height: 400px; 
-    background: url(photo-1486401899868-0e435ed85128.jpg);
+    background: url(./img/photo-1486401899868-0e435ed85128.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
