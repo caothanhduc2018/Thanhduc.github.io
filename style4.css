@@ -8,7 +8,7 @@ body{
     margin: 0px auto;
 }
 #XV{
-    background-color: #0ba5e2;
+    background-color: #0ba5e2!important;
 }
 nav{
     display: flex;
